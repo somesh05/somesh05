@@ -13,4 +13,4 @@ hybrid retrieval, and agentic workflows.
 
 **🛠 Stack:** Python · LangChain · Hugging Face · Groq · ChromaDB · FAISS · RAGAS · Gradio
 
-**🔗** [Portfolio]([https://www.somesh.design/]) · [LinkedIn](https://www.linkedin.com/in/somesh-sati05/)
+**🔗** [Portfolio](https://www.somesh.design/) · [LinkedIn](https://www.linkedin.com/in/somesh-sati05/)
